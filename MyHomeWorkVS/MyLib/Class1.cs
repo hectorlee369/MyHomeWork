@@ -5,6 +5,9 @@ using System.Text;
 
 namespace MyLib
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Class1
     {
     }
